@@ -29,4 +29,5 @@ func GetFloat() (float64, error) {
 
 func PrintConstant() {
 	fmt.Println("Konstanata iz paketa", olovo)
+	fmt.Println("bla bla")
 }
